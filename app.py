@@ -1,6 +1,6 @@
 from flask import Flask, render_template
 
-# test for Git
+
 app = Flask(__name__)
 
 @app.route("/")
